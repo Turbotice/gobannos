@@ -1,2 +1,2 @@
 # gobannos
-Android application to control remotely smartphone sensors
+Android application to control smartphone sensors
