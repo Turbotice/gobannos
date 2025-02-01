@@ -1,6 +1,11 @@
 import socket, time,  urllib.request
 import numpy as np
 
+global network
+global port
+network = 0
+port = 8080
+
 def get_adress(network,phone):
 	return f"192.168.{network}.{phone}" # phone address
 
